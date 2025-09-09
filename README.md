@@ -3,7 +3,7 @@
 💻 **Junior Flutter Developer** – building mobile apps with Dart & Firebase, exploring AI integrations.  
 🐧 Passionate about Linux, open source, and clean code.  
 🔐 Background in cybersecurity and CTF challenges.  
-📚 Currently working on: [Cookbook AI App]([link-to-repo](https://github.com/Random2127/YummyAI)) – a personalized recipe generator using Flutter + AI.  
+📚 Currently working on: [Cookbook AI App](https://github.com/Random2127/YummyAI) – a personalized recipe generator using Flutter + AI.  
 
 🌱 Always learning – especially Flutter, Dart, and applied AI.  
 🤝 Open to collaborations on Flutter apps, mobile UI/UX improvements, and small open-source contributions.  
